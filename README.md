@@ -1,16 +1,17 @@
 <!--
-✨ GitHub Profile README
+GitHub Profile README
 IMPORTANT: Replace YOUR-GITHUB-USERNAME everywhere below with your exact GitHub username.
+This file goes in a public repo named exactly like your username (repo: YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME).
 -->
 
 <div align="center">
 
 # 👋 Hey there, I'm Afry Nizam!
 
-### 🎓 BSc Information Technology Student | 💻 Aspiring IT Professional
+### 🎓 BSc Information Technology Student @ University of West London | 📊 Business Analytics Intern @ Auspify Technologies
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=Learning+%E2%80%A2+Building+%E2%80%A2+Improving;Interested+in+Software+%26+Data;Exploring+AI+and+Cybersecurity;Turning+ideas+into+practical+projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=Learn+%E2%80%A2+Build+%E2%80%A2+Grow;Turning+Ideas+into+Innovative+Solutions;Python+%E2%80%A2+SQL+%E2%80%A2+Power+BI+%E2%80%A2+Data+Analysis;Exploring+AI+and+Cybersecurity" alt="Typing SVG" />
 </p>
 
 <p>
@@ -31,89 +32,154 @@ IMPORTANT: Replace YOUR-GITHUB-USERNAME everywhere below with your exact GitHub 
 
 ## 🌟 About Me
 
-- 🎓 Currently pursuing a **BSc in Information Technology** at the **University of West London**.
-- 📚 Building on my computing background through a **Pearson BTEC Higher National qualification**.
-- 🧠 Exploring **Python, data analytics, machine learning, networking, and cybersecurity**.
-- 📊 Interested in turning raw data into useful insights with tools such as **Power BI**.
-- 🛠️ Learning by building academic projects, documenting my work, and improving step by step.
-- 🚀 My goal is to grow into a capable IT professional and contribute to useful, real-world technology solutions.
+- 🎓 Studying **BSc Information Technology** at the **University of West London** (Sep 2026 – Jul 2027), building on my **Pearson BTEC Higher National Diploma (HND) in Computing**.
+- 📊 **Business Analyst Intern** at **Auspify Technologies** (remote, Oct 2026), where I analysed a dataset of **8,790 Netflix titles** using Python (pandas, matplotlib, seaborn).
+- 🧠 Focus areas: **data analysis, machine learning, databases, business intelligence, networking, and cybersecurity**.
+- 🛠️ I learn by building projects: from relational databases and Power BI dashboards to machine-learning models, desktop apps, and secure network designs.
+- 📍 Based in Sri Lanka 🇱🇰 | 🗣️ English & Sinhalese (full professional proficiency)
+- 🚀 Goal: grow into a capable IT and data professional who turns ideas into impactful, real-world solutions.
 
-> 💡 *Learn consistently. Build with purpose. Improve every day.*
+> 💡 *Learn. Build. Grow.*
+
+## 💼 Experience
+
+**Business Analyst Intern**, Auspify Technologies · Remote · Oct 2026
+Exploratory analysis and visualisation of a Netflix titles dataset (8,790 records) using Python, pandas, matplotlib, and seaborn, working in Google Colab.
 
 ## 🧰 Tech Stack & Tools
 
-### 👨‍💻 Programming & Web
+### 👨‍💻 Programming
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/OOP-Object_Oriented-5C2D91?style=for-the-badge" alt="Object-Oriented Programming"/>
 </p>
 
-### 📊 Data & Machine Learning
+### 📊 Data Analysis, Machine Learning & Business Intelligence
 
 <p>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel"/>
-  <img src="https://img.shields.io/badge/Machine_Learning-Fundamentals-8A2BE2?style=for-the-badge" alt="Machine Learning Fundamentals"/>
+  <img src="https://img.shields.io/badge/DAX-Measures-F2C811?style=for-the-badge" alt="DAX"/>
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="Seaborn"/>
+  <img src="https://img.shields.io/badge/Machine_Learning-Fundamentals-8A2BE2?style=for-the-badge" alt="Machine Learning"/>
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab"/>
 </p>
 
-### 🗄️ Databases, Networking & Tools
+### 🗄️ Databases
 
 <p>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-0086D4?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer"/>
-  <img src="https://img.shields.io/badge/Networking-%26_Security-0A9396?style=for-the-badge" alt="Networking and Security"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/SQL-Database_Design-336791?style=for-the-badge" alt="SQL and Database Design"/>
+  <img src="https://img.shields.io/badge/DBMS-Relational-0A9396?style=for-the-badge" alt="DBMS"/>
 </p>
 
-## 🚀 Featured Academic Projects
+### 🌐 Networking, Security & Tools
 
-> These are academic project areas. Add the repository links once each project has been uploaded, and keep only projects you can confidently explain.
+<p>
+  <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-0086D4?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer"/>
+  <img src="https://img.shields.io/badge/Network_Security-0A9396?style=for-the-badge" alt="Network Security"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</p>
+
+## 🚀 Featured Projects
+
+> Academic and internship projects completed through **Pearson College London**, **ANC Education**, and **Auspify Technologies**. Repository links are being added as each project is uploaded.
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>📈 Retail Analytics Dashboard</h3>
-      <p><b>Tools:</b> Power BI, Power Query, DAX</p>
-      <p>Retail data preparation and dashboard reporting focused on revenue, products, branches, customer segments, and sales trends.</p>
-      <sub>🔗 Add your repository or dashboard link here.</sub>
+      <h3>🎬 Netflix Business Analytics</h3>
+      <p><b>Tools:</b> Python, pandas, matplotlib, seaborn, Google Colab</p>
+      <p>Internship project analysing <b>8,790 Netflix titles</b> to understand content strategy and trends through data visualisation.</p>
+      <sub>🔗 Add notebook link here.</sub>
     </td>
     <td width="50%" valign="top">
-      <h3>🍷 Wine Quality Prediction</h3>
-      <p><b>Tools:</b> Python, Machine Learning</p>
-      <p>Academic classification work exploring wine-quality data, model evaluation, confusion matrices, and feature importance.</p>
-      <sub>🔗 Add your repository link here.</sub>
+      <h3>🏦 Bank Marketing Campaign Prediction</h3>
+      <p><b>Tools:</b> Python, Machine Learning, Google Colab</p>
+      <p>Machine-learning project predicting term-deposit subscription, evaluating model performance with a confusion matrix beyond accuracy alone.</p>
+      <sub>🔗 Add notebook link here.</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏦 Bank Marketing Prediction</h3>
-      <p><b>Tools:</b> Python, Logistic Regression, Decision Trees</p>
-      <p>Classification experiment predicting term-deposit subscription and comparing model performance beyond accuracy alone.</p>
-      <sub>🔗 Add your repository link here.</sub>
+      <h3>🛒 Big Data Analytics &amp; Visualisation for Retail BI</h3>
+      <p><b>Tools:</b> Microsoft Power BI, Business Intelligence</p>
+      <p>Power BI sales dashboard for a retail scenario, tracking total transactions, average transaction value, monthly revenue trends, and revenue by campaign, product category, and customer segment.</p>
+      <sub>🔗 Add dashboard link here.</sub>
     </td>
     <td width="50%" valign="top">
-      <h3>🛡️ Network Security Design</h3>
-      <p><b>Tools:</b> Cisco Packet Tracer, Networking</p>
-      <p>Academic network design and security configuration work covering network protection and secure administration concepts.</p>
-      <sub>🔗 Add your repository link here.</sub>
+      <h3>💊 Pharmacy BI Dashboard</h3>
+      <p><b>Tools:</b> Microsoft Power BI, DAX</p>
+      <p>Business Intelligence solution for <b>Medicare Pharmacy Chain (PVT) Ltd</b>, with dashboards tracking prescriptions, stock availability, and expiring items.</p>
+      <sub>🔗 Add dashboard link here.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🐾 Paws &amp; Whiskers Vet Clinic Database</h3>
+      <p><b>Tools:</b> MySQL, SQL, Database Design</p>
+      <p>Complete relational database system for an animal-care veterinary clinic, covering owners, pets, treatments, and record management.</p>
+      <sub>🔗 Add repository link here.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛡️ Secure Enterprise Network Design</h3>
+      <p><b>Tools:</b> Cisco Packet Tracer, Network Security</p>
+      <p>Secure enterprise network designed and implemented for a healthcare organisation, with configuration and security controls.</p>
+      <sub>🔗 Add repository link here.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔐 Effects of Ransomware Attacks on Retail Business Operations</h3>
+      <p><b>Tools:</b> Cybersecurity, Research Methodologies</p>
+      <p>Research report submitted for the Computing Research Project module of the Pearson BTEC HND, investigating how ransomware affects retail operations.</p>
+      <sub>🔗 Add report link here.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 AI-Driven Cybersecurity Survey</h3>
+      <p><b>Tools:</b> Survey Design, Google Analytics</p>
+      <p>Designed and launched an academic survey on how AI is used to detect and prevent cyberattacks in healthcare organisations.</p>
+      <sub>🔗 Add report link here.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>☕ Smart Café Self-Order System</h3>
+      <p><b>Tools:</b> Python, PyCharm</p>
+      <p>Desktop application where customers select size, sugar, and milk options and get an automatically calculated bill.</p>
+      <sub>🔗 Add repository link here.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚌 Smart Transport Management System</h3>
+      <p><b>Tools:</b> Java, Object-Oriented Programming</p>
+      <p>Java application for managing routes, buses, and passengers using object-oriented design principles.</p>
+      <sub>🔗 Add repository link here.</sub>
     </td>
   </tr>
 </table>
 
+## 🎓 Education
+
+| Qualification | Institution | Period |
+|---|---|---|
+| BSc Information Technology | University of West London | Sep 2026 – Jul 2027 |
+| Pearson BTEC Higher National Diploma (HND) in Computing | Pearson College London | Oct 2024 – Oct 2026 |
+| Pearson Foundation Programme | ANC School of Postgraduate Education | Completed |
+| GCE Advanced Level (Commerce stream) | Zahira College Mawanella | Please update |
+
 ## 📚 Currently Learning
 
-- 🐍 Improving Python programming and code structure
-- 🗃️ Strengthening SQL and database concepts
-- 📊 Building clearer Power BI reports and data visualisations
+- 🐍 Strengthening Python for data analysis and writing cleaner code
+- 🗃️ Deepening SQL and database design
+- 📊 Building clearer Power BI reports and business-focused visualisations
 - 🤖 Understanding machine-learning workflows and model evaluation
 - 🌐 Practising Git, GitHub, and project documentation
 
 ## 📊 GitHub Snapshot
-
-<!-- Replace YOUR-GITHUB-USERNAME in the image URLs below with your exact username. -->
 
 <div align="center">
 
@@ -126,7 +192,7 @@ IMPORTANT: Replace YOUR-GITHUB-USERNAME everywhere below with your exact GitHub 
 
 ## 🤝 Let's Connect!
 
-I'm always happy to connect with fellow students, developers, and technology enthusiasts, learn from others, and collaborate on meaningful projects.
+I'm open to internships and entry-level opportunities in **business analytics, data analysis, and IT**. Happy to connect with students, developers, and professionals, and to collaborate on meaningful projects.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/afrynizam">
@@ -141,7 +207,7 @@ I'm always happy to connect with fellow students, developers, and technology ent
 
 ### ✨ Thanks for visiting my profile!
 
-*"Small steps every day lead to meaningful progress."* 🌱
+*Learn. Build. Grow.* 🌱
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,50:7F52FF,100:FF6CAB&height=100&section=footer" width="100%" alt="Colourful footer"/>
 
