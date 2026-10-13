@@ -8,7 +8,11 @@ This file goes in a public repo named exactly like your username (repo: YOUR-GIT
 
 # 👋 Hey there, I'm Afry Nizam!
 
-### 🎓 BSc Information Technology Student @ University of West London | 📊 Business Analytics Intern @ Auspify Technologies
+### ### 🎓 BSc Information Technology (R) | 🏛️ University of West London
+
+### 📘 Pearson Foundation | 💻 Pearson BTEC Higher National
+
+### 🛒 A/L Commerce Student | 🚀 Aspiring IT Professional
 
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=Learn+%E2%80%A2+Build+%E2%80%A2+Grow;Turning+Ideas+into+Innovative+Solutions;Python+%E2%80%A2+SQL+%E2%80%A2+Power+BI+%E2%80%A2+Data+Analysis;Exploring+AI+and+Cybersecurity" alt="Typing SVG" />
@@ -32,18 +36,18 @@ This file goes in a public repo named exactly like your username (repo: YOUR-GIT
 
 ## 🌟 About Me
 
-- 🎓 Studying **BSc Information Technology** at the **University of West London** (Sep 2026 – Jul 2027), building on my **Pearson BTEC Higher National Diploma (HND) in Computing**.
-- 📊 **Business Analyst Intern** at **Auspify Technologies** (remote, Oct 2026), where I analysed a dataset of **8,790 Netflix titles** using Python (pandas, matplotlib, seaborn).
+- 🎓 Studying **BSc Information Technology** at the **University of West London**, Completed **Pearson BTEC Higher National Diploma (HND) in Computing**.
+- 📊 **Business Analyst Intern** at **Auspify Technologies** (remote), where I analysed a dataset of **8,790 Netflix titles** using Python (pandas, matplotlib, seaborn).
 - 🧠 Focus areas: **data analysis, machine learning, databases, business intelligence, networking, and cybersecurity**.
-- 🛠️ I learn by building projects: from relational databases and Power BI dashboards to machine-learning models, desktop apps, and secure network designs.
+- 🛠️ I learn by building projects from relational databases and Power BI dashboards to machine-learning models, desktop apps, and secure network designs.
 - 📍 Based in Sri Lanka 🇱🇰 | 🗣️ English & Sinhalese (full professional proficiency)
-- 🚀 Goal: grow into a capable IT and data professional who turns ideas into impactful, real-world solutions.
+- 🚀 Goal is to grow into a capable IT and data professional who turns ideas into impactful, real-world solutions.
 
 > 💡 *Learn. Build. Grow.*
 
 ## 💼 Experience
 
-**Business Analyst Intern**, Auspify Technologies · Remote · Oct 2026
+**Business Analyst Intern**, Auspify Technologies · Remote
 Exploratory analysis and visualisation of a Netflix titles dataset (8,790 records) using Python, pandas, matplotlib, and seaborn, working in Google Colab.
 
 ## 🧰 Tech Stack & Tools
