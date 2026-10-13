@@ -8,7 +8,7 @@ This file goes in a public repo named exactly like your username (repo: YOUR-GIT
 
 # 👋 Hey there, I'm Afry Nizam!
 
-### ### 🎓 BSc Information Technology (R) | 🏛️ University of West London
+### 🎓 BSc Information Technology (R) | 🏛️ University of West London
 
 ### 📘 Pearson Foundation | 💻 Pearson BTEC Higher National
 
