@@ -105,7 +105,7 @@ Exploratory analysis and visualisation of a Netflix titles dataset (8,790 record
       <h3>🏦 Bank Marketing Campaign Prediction</h3>
       <p><b>Tools:</b> Python, Machine Learning, Google Colab</p>
       <p>Machine-learning project predicting term-deposit subscription, evaluating model performance with a confusion matrix beyond accuracy alone.</p>
-      <sub>🔗 Add notebook link here.</sub>
+      <sub>🔗 https://colab.research.google.com/drive/1H1yjTe39yqGyyekHsuD-4VNqGn6cTKOP?usp=sharing</sub>
     </td>
   </tr>
   <tr>
