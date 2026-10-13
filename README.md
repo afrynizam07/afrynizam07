@@ -22,7 +22,7 @@ This file goes in a public repo named exactly like your username (repo: YOUR-GIT
   <a href="https://www.linkedin.com/in/afrynizam">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/YOUR-GITHUB-USERNAME">
+  <a href="https://github.com/afrynizam07">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="mailto:afrinizam2007@gmail.com">
@@ -99,7 +99,7 @@ Exploratory analysis and visualisation of a Netflix titles dataset (8,790 record
       <h3>🎬 Netflix Business Analytics</h3>
       <p><b>Tools:</b> Python, pandas, matplotlib, seaborn, Google Colab</p>
       <p>Internship project analysing <b>8,790 Netflix titles</b> to understand content strategy and trends through data visualisation.</p>
-      <sub>🔗 Add notebook link here.</sub>
+      <sub>🔗 https://colab.research.google.com/drive/14o6lyXlFfbrXz7uR8PYTYBiZkHk0tl7k?usp=sharing</sub>
     </td>
     <td width="50%" valign="top">
       <h3>🏦 Bank Marketing Campaign Prediction</h3>
@@ -173,7 +173,7 @@ Exploratory analysis and visualisation of a Netflix titles dataset (8,790 record
 | BSc Information Technology | University of West London | Sep 2026 – Jul 2027 |
 | Pearson BTEC Higher National Diploma (HND) in Computing | Pearson College London | Oct 2024 – Oct 2026 |
 | Pearson Foundation Programme | ANC School of Postgraduate Education | Completed |
-| GCE Advanced Level (Commerce stream) | Zahira College Mawanella | Please update |
+| GCE Advanced Level (Commerce stream) | Zahira College Mawanella | Pending |
 
 ## 📚 Currently Learning
 
@@ -187,16 +187,16 @@ Exploratory analysis and visualisation of a Netflix titles dataset (8,790 record
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=afrynizam07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afrynizam07&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used languages"/>
 <br/>
-<img src="https://streak-stats.demolab.com?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+<img src="https://streak-stats.demolab.com?user=afrynizam07&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 
 </div>
 
 ## 🤝 Let's Connect!
 
-I'm open to internships and entry-level opportunities in **business analytics, data analysis, and IT**. Happy to connect with students, developers, and professionals, and to collaborate on meaningful projects.
+I'm always happy to connect with fellow students, developers, and technology enthusiasts, learn from others, and collaborate on meaningful projects.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/afrynizam">
