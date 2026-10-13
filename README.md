@@ -7,15 +7,23 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently pursing [BSc Information Technology](from the University of West London)
+- 🔭 I’m currently pursing BSc Information Technology from the University of West London
 
-- 👯 I have previously developed my technical foundation [through the Pearson BTEC Higher National qualification](in Computing.)
+- 🌱 I enjoy learning new programming skills, solving real-world problems, and developing practical projects that strengthen my technical knowledge.
+
+- 👯 I have previously developed my technical foundation through the Pearson BTEC Higher National qualification in Computing.
+
+- 🤝 I have a strong interest in software development, artificial intelligence, data, cybersecurity, and emerging technologies.
 
 - 👨‍💻 Visit my LinkedIn profile [www.linkedin.com/in/afrynizam](www.linkedin.com/in/afrynizam)
+
+- 📝 I am committed to continuous learning and building practical experience as I progress toward a career in the technology industry and building practical experience as I progress toward a career in the technology industry.
 
 - 💬 Ask me about **my educational journey**
 
 - 📫 How to reach me **afrinizam2007@gmail.com**
+
+- 📄 My goal is to develop innovative and impactful solutions while continuously expanding my technical and professional skills.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
