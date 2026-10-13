@@ -7,6 +7,10 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 🔭 I’m currently pursing [BSc Information Technology](from the University of West London)
+
+- 👯 I have previously developed my technical foundation [through the Pearson BTEC Higher National qualification](in Computing.)
+
 - 👨‍💻 Visit my LinkedIn profile [www.linkedin.com/in/afrynizam](www.linkedin.com/in/afrynizam)
 
 - 💬 Ask me about **my educational journey**
