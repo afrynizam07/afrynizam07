@@ -1,9 +1,3 @@
-<!--
-GitHub Profile README
-IMPORTANT: Replace YOUR-GITHUB-USERNAME everywhere below with your exact GitHub username.
-This file goes in a public repo named exactly like your username (repo: YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME).
--->
-
 <div align="center">
 
 # 👋 Hey there, I'm Afry Nizam!
@@ -15,7 +9,7 @@ This file goes in a public repo named exactly like your username (repo: YOUR-GIT
 ### 🛒 A/L Commerce Student | 🚀 Aspiring IT Professional
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=Learn+%E2%80%A2+Build+%E2%80%A2+Grow;Turning+Ideas+into+Innovative+Solutions;Python+%E2%80%A2+SQL+%E2%80%A2+Power+BI+%E2%80%A2+Data+Analysis;Exploring+AI+and+Cybersecurity" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=Learn+%E2%80%A2+Build+%E2%80%A2+Grow;Turning+Ideas+into+Innovative+Solutions;Python+%E2%80%A2+SQL+%E2%80%A2+Power+BI+%E2%80%A2+Data+Analysis;Exploring+IT+Professional" alt="Typing SVG" />
 </p>
 
 <p>
