@@ -93,7 +93,7 @@ Exploratory analysis and visualisation of a Netflix titles dataset using Python,
       <h3>🎬 Netflix Business Analytics</h3>
       <p><b>Tools:</b> Python, pandas, matplotlib, seaborn, Google Colab</p>
       <p>Internship project analysing <b>8,790 Netflix titles</b> to understand content strategy and trends through data visualisation.</p>
-      <sub>🔗 "https://colab.research.google.com/drive/14o6lyXlFfbrXz7uR8PYTYBiZkHk0tl7k"</sub>
+      <sub>🔗 "https://github.com/afrynizam07/netflix-business-analytics"</sub>
     </td>
     <td width="50%" valign="top">
       <h3>🏦 Bank Marketing Campaign Prediction</h3>
