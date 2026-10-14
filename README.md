@@ -188,6 +188,33 @@ Exploratory analysis and visualisation of a Netflix titles dataset (8,790 record
 
 </div>
 
+## 📬 Contact Me
+
+<div align="center">
+
+<p>
+  <a href="https://t.me/afry_nizam">
+    <img src="https://img.shields.io/badge/Telegram-@afry__nizam-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="https://x.com/Afry_Nizam">
+    <img src="https://img.shields.io/badge/X-@Afry__Nizam-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
+  </a>
+  <a href="https://instagram.com/afry_nizam.07">
+    <img src="https://img.shields.io/badge/Instagram-@afry__nizam.07-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
+
+<p>
+  <a href="https://snapchat.com/add/afry_nizam">
+    <img src="https://img.shields.io/badge/Snapchat-afry__nizam-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" alt="Snapchat"/>
+  </a>
+  <a href="https://tiktok.com/@afry_nizam.07">
+    <img src="https://img.shields.io/badge/TikTok-@afry__nizam.07-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
+  </a>
+</p>
+
+</div>
+
 ## 🤝 Let's Connect!
 
 I'm always happy to connect with fellow students, developers, and technology enthusiasts, learn from others, and collaborate on meaningful projects.
