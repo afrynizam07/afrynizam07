@@ -34,15 +34,15 @@
 - 📊 **Business Analyst Intern** at **Auspify Technologies** (remote), where I analysed a dataset of **8,790 Netflix titles** using Python (pandas, matplotlib, seaborn).
 - 🧠 Focus areas: **data analysis, machine learning, databases, business intelligence, networking, and cybersecurity**.
 - 🛠️ I learn by building projects from relational databases and Power BI dashboards to machine-learning models, desktop apps, and secure network designs.
-- 📍 Based in Sri Lanka 🇱🇰 | 🗣️ English & Sinhalese (full professional proficiency)
+- 📍 Based in Sri Lanka | 🗣️ Tamil (native or bilingual proficiency), English & Sinhalese (full professional proficiency)
 - 🚀 Goal is to grow into a capable IT and data professional who turns ideas into impactful, real-world solutions.
 
 > 💡 *Learn. Build. Grow.*
 
 ## 💼 Experience
 
-**Business Analyst Intern**, Auspify Technologies · Remote
-Exploratory analysis and visualisation of a Netflix titles dataset (8,790 records) using Python, pandas, matplotlib, and seaborn, working in Google Colab.
+**Business Analyst Intern** at Auspify Technologies · Remote ·
+Exploratory analysis and visualisation of a Netflix titles dataset using Python, pandas, matplotlib, and seaborn, working in Google Colab.
 
 ## 🧰 Tech Stack & Tools
 
@@ -93,13 +93,13 @@ Exploratory analysis and visualisation of a Netflix titles dataset (8,790 record
       <h3>🎬 Netflix Business Analytics</h3>
       <p><b>Tools:</b> Python, pandas, matplotlib, seaborn, Google Colab</p>
       <p>Internship project analysing <b>8,790 Netflix titles</b> to understand content strategy and trends through data visualisation.</p>
-      <sub>🔗 https://colab.research.google.com/drive/14o6lyXlFfbrXz7uR8PYTYBiZkHk0tl7k?usp=sharing</sub>
+      <sub>🔗 "https://colab.research.google.com/drive/14o6lyXlFfbrXz7uR8PYTYBiZkHk0tl7k"</sub>
     </td>
     <td width="50%" valign="top">
       <h3>🏦 Bank Marketing Campaign Prediction</h3>
       <p><b>Tools:</b> Python, Machine Learning, Google Colab</p>
       <p>Machine-learning project predicting term-deposit subscription, evaluating model performance with a confusion matrix beyond accuracy alone.</p>
-      <sub>🔗 https://colab.research.google.com/drive/1H1yjTe39yqGyyekHsuD-4VNqGn6cTKOP?usp=sharing</sub>
+      <sub>🔗 "https://colab.research.google.com/drive/1H1yjTe39yqGyyekHsuD-4VNqGn6cTKOP"</sub>
     </td>
   </tr>
   <tr>
