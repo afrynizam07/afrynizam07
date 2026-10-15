@@ -113,7 +113,7 @@ Exploratory analysis and visualisation of a Netflix titles dataset using Python,
       <h3>💊 Pharmacy BI Dashboard</h3>
       <p><b>Tools:</b> Microsoft Power BI, DAX</p>
       <p>Business Intelligence solution for <b>Medicare Pharmacy Chain (PVT) Ltd</b>, with dashboards tracking prescriptions, stock availability, and expiring items.</p>
-      <sub>🔗 Add dashboard link here.</sub>
+      <sub>🔗 "https://github.com/afrynizam07/medicare-pharmacy-bi-dashboard".</sub>
     </td>
   </tr>
   <tr>
