@@ -99,7 +99,7 @@ Exploratory analysis and visualisation of a Netflix titles dataset using Python,
       <h3>🏦 Bank Marketing Campaign Prediction</h3>
       <p><b>Tools:</b> Python, Machine Learning, Google Colab</p>
       <p>Machine-learning project predicting term-deposit subscription, evaluating model performance with a confusion matrix beyond accuracy alone.</p>
-      <sub>🔗 "https://colab.research.google.com/drive/1H1yjTe39yqGyyekHsuD-4VNqGn6cTKOP"</sub>
+      <sub>🔗 "https://github.com/afrynizam07/bank-marketing-prediction"</sub>
     </td>
   </tr>
   <tr>
