@@ -107,7 +107,7 @@ Exploratory analysis and visualisation of a Netflix titles dataset using Python,
       <h3>🛒 Big Data Analytics &amp; Visualisation for Retail BI</h3>
       <p><b>Tools:</b> Microsoft Power BI, Business Intelligence</p>
       <p>Power BI sales dashboard for a retail scenario, tracking total transactions, average transaction value, monthly revenue trends, and revenue by campaign, product category, and customer segment.</p>
-      <sub>🔗 Add dashboard link here.</sub>
+      <sub>🔗 "https://github.com/afrynizam07/lankamart-retail-bi-dashboard".</sub>
     </td>
     <td width="50%" valign="top">
       <h3>💊 Pharmacy BI Dashboard</h3>
