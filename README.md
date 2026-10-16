@@ -149,7 +149,7 @@ Exploratory analysis and visualisation of a Netflix titles dataset using Python,
       <h3>☕ Smart Café Self-Order System</h3>
       <p><b>Tools:</b> Python, PyCharm</p>
       <p>Desktop application where customers select size, sugar, and milk options and get an automatically calculated bill.</p>
-      <sub>🔗 Add repository link here.</sub>
+      <sub>🔗 "https://github.com/afrynizam07/smart-cafe-self-order-system".</sub>
     </td>
     <td width="50%" valign="top">
       <h3>🚌 Smart Transport Management System</h3>
