@@ -107,13 +107,13 @@ Exploratory analysis and visualisation of a Netflix titles dataset using Python,
       <h3>🛒 Big Data Analytics &amp; Visualisation for Retail BI</h3>
       <p><b>Tools:</b> Microsoft Power BI, Business Intelligence</p>
       <p>Power BI sales dashboard for a retail scenario, tracking total transactions, average transaction value, monthly revenue trends, and revenue by campaign, product category, and customer segment.</p>
-      <sub>🔗 "https://github.com/afrynizam07/lankamart-retail-bi-dashboard".</sub>
+      <sub>🔗 "https://github.com/afrynizam07/lankamart-retail-bi-dashboard"</sub>
     </td>
     <td width="50%" valign="top">
       <h3>💊 Pharmacy BI Dashboard</h3>
       <p><b>Tools:</b> Microsoft Power BI, DAX</p>
       <p>Business Intelligence solution for <b>Medicare Pharmacy Chain (PVT) Ltd</b>, with dashboards tracking prescriptions, stock availability, and expiring items.</p>
-      <sub>🔗 "https://github.com/afrynizam07/medicare-pharmacy-bi-dashboard".</sub>
+      <sub>🔗 "https://github.com/afrynizam07/medicare-pharmacy-bi-dashboard"</sub>
     </td>
   </tr>
   <tr>
@@ -121,13 +121,13 @@ Exploratory analysis and visualisation of a Netflix titles dataset using Python,
       <h3>🐾 Paws &amp; Whiskers Vet Clinic Database</h3>
       <p><b>Tools:</b> MySQL, SQL, Database Design</p>
       <p>Complete relational database system for an animal-care veterinary clinic, covering owners, pets, treatments, and record management.</p>
-    <sub>🔗 "https://github.com/afrynizam07/paws-whiskers-vet-clinic-database".</sub>
+    <sub>🔗 "https://github.com/afrynizam07/paws-whiskers-vet-clinic-database"</sub>
     </td>
     <td width="50%" valign="top">
       <h3>🛡️ Secure Enterprise Network Design</h3>
       <p><b>Tools:</b> Cisco Packet Tracer, Network Security</p>
       <p>Secure enterprise network designed and implemented for a healthcare organisation, with configuration and security controls.</p>
-      <sub>🔗 "https://github.com/afrynizam07/secure-enterprise-network-design".</sub>
+      <sub>🔗 "https://github.com/afrynizam07/secure-enterprise-network-design"</sub>
     </td>
   </tr>
   <tr>
@@ -135,13 +135,13 @@ Exploratory analysis and visualisation of a Netflix titles dataset using Python,
       <h3>🔐 Effects of Ransomware Attacks on Retail Business Operations</h3>
       <p><b>Tools:</b> Cybersecurity, Research Methodologies</p>
       <p>Research report submitted for the Computing Research Project module of the Pearson BTEC HND, investigating how ransomware affects retail operations.</p>
-      <sub>🔗 </sub>
+      <sub>🔗 "https://github.com/afrynizam07/ransomware-retail-operations-research"</sub>
     </td>
     <td width="50%" valign="top">
       <h3>🤖 AI-Driven Cybersecurity Survey</h3>
       <p><b>Tools:</b> Survey Design, Google Analytics</p>
       <p>Designed and launched an academic survey on how AI is used to detect and prevent cyberattacks in healthcare organisations.</p>
-      <sub>🔗 "https://github.com/afrynizam07/ai-cybersecurity-healthcare-survey".</sub>
+      <sub>🔗 "https://github.com/afrynizam07/ai-cybersecurity-healthcare-survey"</sub>
     </td>
   </tr>
   <tr>
@@ -149,13 +149,13 @@ Exploratory analysis and visualisation of a Netflix titles dataset using Python,
       <h3>☕ Smart Café Self-Order System</h3>
       <p><b>Tools:</b> Python, PyCharm</p>
       <p>Desktop application where customers select size, sugar, and milk options and get an automatically calculated bill.</p>
-      <sub>🔗 "https://github.com/afrynizam07/smart-cafe-self-order-system".</sub>
+      <sub>🔗 "https://github.com/afrynizam07/smart-cafe-self-order-system"</sub>
     </td>
     <td width="50%" valign="top">
       <h3>🚌 Smart Transport Management System</h3>
       <p><b>Tools:</b> Java, Object-Oriented Programming</p>
       <p>Java application for managing routes, buses, and passengers using object-oriented design principles.</p>
-      <sub>🔗 "https://github.com/afrynizam07/smart-transport-management-system".</sub>
+      <sub>🔗 "https://github.com/afrynizam07/smart-transport-management-system"</sub>
     </td>
   </tr>
 </table>
