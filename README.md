@@ -141,7 +141,7 @@ Exploratory analysis and visualisation of a Netflix titles dataset using Python,
       <h3>🤖 AI-Driven Cybersecurity Survey</h3>
       <p><b>Tools:</b> Survey Design, Google Analytics</p>
       <p>Designed and launched an academic survey on how AI is used to detect and prevent cyberattacks in healthcare organisations.</p>
-      <sub>🔗 Add report link here.</sub>
+      <sub>🔗 "https://github.com/afrynizam07/ai-cybersecurity-healthcare-survey".</sub>
     </td>
   </tr>
   <tr>
