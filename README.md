@@ -127,7 +127,7 @@ Exploratory analysis and visualisation of a Netflix titles dataset using Python,
       <h3>🛡️ Secure Enterprise Network Design</h3>
       <p><b>Tools:</b> Cisco Packet Tracer, Network Security</p>
       <p>Secure enterprise network designed and implemented for a healthcare organisation, with configuration and security controls.</p>
-      <sub>🔗 Add repository link here.</sub>
+      <sub>🔗 "https://github.com/afrynizam07/secure-enterprise-network-design".</sub>
     </td>
   </tr>
   <tr>
