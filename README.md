@@ -31,7 +31,7 @@
 ## 🌟 About Me
 
 - 🎓 Studying **BSc Information Technology** at the **University of West London**, Completed **Pearson BTEC Higher National Diploma (HND) in Computing**.
-- 📊 **Business Analyst Intern** at **Auspify Technologies** (remote), where I analysed a dataset of **8,790 Netflix titles** using Python (pandas, matplotlib, seaborn).
+- 📊 **Business Analyst Intern** at **Auspify Technologies** (remote), where I analysed a dataset using Python (pandas, matplotlib, seaborn).
 - 🧠 Focus areas: **data analysis, machine learning, databases, business intelligence, networking, and cybersecurity**.
 - 🛠️ I learn by building projects from relational databases and Power BI dashboards to machine-learning models, desktop apps, and secure network designs.
 - 📍 Based in Sri Lanka | 🗣️ Tamil (native or bilingual proficiency), English & Sinhalese (full professional proficiency)
@@ -85,7 +85,7 @@ Exploratory analysis and visualisation of a Netflix titles dataset using Python,
 
 ## 🚀 Featured Projects
 
-> Academic and internship projects completed through **Pearson College London**, **ANC Education**, and **Auspify Technologies**. Repository links are being added as each project is uploaded.
+> Academic and internship projects completed through **Pearson College London**, **ANC Education**, and **Auspify Technologies**.
 
 <table>
   <tr>
@@ -135,7 +135,7 @@ Exploratory analysis and visualisation of a Netflix titles dataset using Python,
       <h3>🔐 Effects of Ransomware Attacks on Retail Business Operations</h3>
       <p><b>Tools:</b> Cybersecurity, Research Methodologies</p>
       <p>Research report submitted for the Computing Research Project module of the Pearson BTEC HND, investigating how ransomware affects retail operations.</p>
-      <sub>🔗 Add report link here.</sub>
+      <sub>🔗 </sub>
     </td>
     <td width="50%" valign="top">
       <h3>🤖 AI-Driven Cybersecurity Survey</h3>
@@ -155,7 +155,7 @@ Exploratory analysis and visualisation of a Netflix titles dataset using Python,
       <h3>🚌 Smart Transport Management System</h3>
       <p><b>Tools:</b> Java, Object-Oriented Programming</p>
       <p>Java application for managing routes, buses, and passengers using object-oriented design principles.</p>
-      <sub>🔗 Add repository link here.</sub>
+      <sub>🔗 "https://github.com/afrynizam07/smart-transport-management-system".</sub>
     </td>
   </tr>
 </table>
