@@ -121,7 +121,7 @@ Exploratory analysis and visualisation of a Netflix titles dataset using Python,
       <h3>🐾 Paws &amp; Whiskers Vet Clinic Database</h3>
       <p><b>Tools:</b> MySQL, SQL, Database Design</p>
       <p>Complete relational database system for an animal-care veterinary clinic, covering owners, pets, treatments, and record management.</p>
-      <sub>🔗 Add repository link here.</sub>
+    <sub>🔗 "https://github.com/afrynizam07/paws-whiskers-vet-clinic-database".</sub>
     </td>
     <td width="50%" valign="top">
       <h3>🛡️ Secure Enterprise Network Design</h3>
